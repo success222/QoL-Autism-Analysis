@@ -22,7 +22,7 @@ The dataset consists of 150 rows and 22 columns, covering a wide range of variab
 
 ## Key Visualizations
 ### 🧠 Lifestyle vs Sleep Disorder
-![Quality of Life Distribution in ASD vs TD](numerical_box_plots.png)
+![Quality of Life Distribution in ASD vs TD](QoL_box_plots.png)
 
 ### Gender and Occupation vs Sleep Disorder
 ![Interventions in ASD vs TD](interventions_comparison.png)
