@@ -31,11 +31,13 @@ The dataset consists of 150 rows and 22 columns, covering a wide range of variab
 
 ## 📌 Notable Findings
 - Gender was the only factor significantly associated with Quality of Life (QoL) among children with ASD.
+
 Other variables such as:
 - Severity of ASD
 - Comorbid conditions
 - Parental mental health issues
 - Therapy received
+
 showed no statistically significant association with QoL, even though some visual patterns suggested possible differences.
 
 ## 📚 Interpretation Notes
