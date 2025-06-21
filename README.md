@@ -21,7 +21,7 @@ The dataset consists of 150 rows and 22 columns, covering a wide range of variab
 - Jupyter Notebook
 
 ## Key Visualizations
-### 🧠 Lifestyle vs Sleep Disorder
+### Lifestyle vs Sleep Disorder
 ![Quality of Life Distribution in ASD vs TD](QoL_box_plots.png)
 
 ### Gender and Occupation vs Sleep Disorder
